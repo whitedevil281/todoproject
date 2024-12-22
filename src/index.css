@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("/img.jpg");
+    font-family: "Poppins", sans-serif;
+}
+
+.line{
+    width: 100%;
+    padding: 1px;
+    background-color: white;
+}

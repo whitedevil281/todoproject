@@ -1,0 +1,6 @@
+.input-todo:focus{
+  outline: none;
+  border: none;
+  outline: 2px solid blue;
+}
+  
